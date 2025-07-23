@@ -1,4 +1,4 @@
-#b🧠 Brain Tumor Detection using CNN and PyTorch
+# 🧠 Brain Tumor Detection using CNN and PyTorch
 
 This project presents a robust deep learning-based solution for **brain tumor classification** using **Convolutional Neural Networks (CNN)** in **PyTorch**. By analyzing MRI images, the model assists in early and accurate diagnosis of brain tumors, achieving a remarkable **97% accuracy**.
 
